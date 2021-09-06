@@ -1,0 +1,2 @@
+# Life_Expectancy_Prediction-Linear-Regression
+The dataset is related to life expectancy associated with various other factors. In this project, we have received the average life expectancy of people of 193 Countries. We have to predict next year’s value of average life expectancy.  As per the goal of the project, we are running a Linear regression on Life_expectancy(Y), to analyze the influence of several independent factors that affect dependent / target variable Y.
